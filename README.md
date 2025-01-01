@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hola Mundo 👋
 Hola, soy Raúl Jaque y este es mi primer portafolio como aprendiz de programador web.
 
-![image](https://github.com/user-attachments/assets/ce87a94e-43c2-4a37-af51-7cef5afeaba0)
+- 🔭 I’m currently working on ... Región de Valparaíso, Chile.
+- 🌱 I’m currently learning ... JavaScrript + Vue js y un montón de cosas más.
 
 <!--
 **RJaqE/RJaqE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
