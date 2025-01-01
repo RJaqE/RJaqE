@@ -4,6 +4,8 @@ Hola, soy Raúl Jaque y este es mi primer portafolio como aprendiz de programado
 - 🔭 I’m currently working on ... Región de Valparaíso, Chile.
 - 🌱 I’m currently learning ... JavaScrript + Vue js y un montón de cosas más.
 
+Sólo tengo la experiencia de haber completado el programa del Bootcamp, pero la falta de experiencia se suple con las ganas de seguir desarrollando y aprendiedo. 
+Es una definición de vida.
 <!--
 **RJaqE/RJaqE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
