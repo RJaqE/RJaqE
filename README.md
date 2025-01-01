@@ -1,5 +1,8 @@
 ## Hi there 👋
 Hola, soy Raúl Jaque y este es mi primer portafolio como aprendiz de programador web.
+
+![image](https://github.com/user-attachments/assets/ce87a94e-43c2-4a37-af51-7cef5afeaba0)
+
 <!--
 **RJaqE/RJaqE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
