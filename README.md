@@ -19,10 +19,11 @@ Soy un Ingeniero Agrónomo convertido en desarrollador. Combino 15 años de expe
 Aplicación web Full Stack para la gestión de productos, categorías y etiquetado.
 * **Funcionalidades:** CRUD completo, reportes con SQL Raw, autenticación de usuarios y panel de administración personalizado.
 * **Tecnologías:** Django 5, MySQL, Bootstrap 5.
-* [Ver Código Fuente](https://github.com/RJaqE/M7_proyecto_final_django)
+* [Ver Código Fuente](https://github.com/RJaqE/M7_proyecto_final_django) 💻
+* [Ver Caso de Estudio UX/UI en Behance](https://www.behance.net/gallery/240605959/Sistema-de-Gestion-de-Inventario-Full-Stack) 🎨
 
 ---
 
 ### 📫 Contáctame
-* [LinkedIn] www.linkedin.com/in/rhjaque
-* [Email] jaquecl@gmail.com
+* [LinkedIn](www.linkedin.com/in/rhjaque)
+* [Email](jaquecl@gmail.com)
