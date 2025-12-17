@@ -24,5 +24,5 @@ Aplicación web Full Stack para la gestión de productos, categorías y etiqueta
 ---
 
 ### 📫 Contáctame
-* [LinkedIn](PON_AQUI_TU_LINK_DE_LINKEDIN)
-* [Email](mailto:tu_correo@ejemplo.com)
+* [LinkedIn] www.linkedin.com/in/rhjaque
+* [Email] jaquecl@gmail.com
