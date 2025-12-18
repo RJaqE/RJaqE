@@ -22,7 +22,7 @@ Aplicación web Full Stack para la gestión de productos, categorías y etiqueta
 
 ### 🚀 Recursos del Proyecto
 
-* [Ver Video de Presentación (Elevator Pitch) 🎥](https://www.loom.com/share/79940abe7c4c420ab4e2664fbc580629)
+* [Ver Video de Presentación 🎥](https://www.loom.com/share/79940abe7c4c420ab4e2664fbc580629)
 * [Ver Código Fuente en GitHub 💻](https://github.com/RJaqE/M7_proyecto_final_django)
 * [Ver Caso de Estudio UX/UI en Behance 🎨](https://www.behance.net/gallery/240605959/Sistema-de-Gestion-de-Inventario-Full-Stack)
 
