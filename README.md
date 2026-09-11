@@ -1,15 +1,16 @@
 # Hola, soy Raúl Jaque 👋
-### Desarrollador Full Stack Python 
 
-Soy un Ingeniero Agrónomo convertido en desarrollador. Combino 15 años de experiencia liderando operaciones y calidad con mi pasión por el código. Me especializo en crear soluciones backend robustas con Django y frontend dinámico.
+### Desarrollador Full Stack Python & Científico de Datos
+
+Soy un Ingeniero Agrónomo convertido en desarrollador y científico de datos. Combino 15 años de experiencia liderando operaciones y calidad con mi pasión por el código. Me especializo en construir soluciones backend robustas, aplicaciones web dinámicas y modelos predictivos basados en análisis de datos a escala.
 
 ---
 
 ### 🛠️ Tech Stack
 * **Lenguajes:** Python, JavaScript
-* **Backend:** Django, MySQL
-* **Frontend:** HTML5, CSS3, Bootstrap, Vue.js
-* **Herramientas:** Git, VS Code, Postman, Jira
+* **Backend & Web:** Django, MySQL, PostgreSQL, Vue.js, Bootstrap
+* **Big Data & Data Science:** Apache Spark (PySpark), Pandas, NumPy, Scikit-Learn, Imbalanced-Learn
+* **Herramientas & Entorno:** Git, VS Code, Google Colab, PowerShell, Postman, Jira
 
 ---
 
